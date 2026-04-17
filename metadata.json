@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous AI Agent Dashboard",
+  "description": "An interactive split-screen experience comparing legacy CI/CD systems with a modern n8n + AI autonomous engine. Features real-time AI image generation and asset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
